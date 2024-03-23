@@ -1,2 +1,4 @@
-# rock_paper
-Rock Paper Scissors
+# Rock Paper Scissors Game 
+
+
+Rock Paper Scissors Demo Game
